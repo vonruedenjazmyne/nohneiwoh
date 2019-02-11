@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ijeelai.misasolutions.com/sitemap.xml
